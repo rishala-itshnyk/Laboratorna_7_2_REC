@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_7_2_REC", "Laboratorna_7_2_REC\Laboratorna_7_2_REC.csproj", "{A01A0CC0-5CB8-4D29-AD23-62A5A6D5EE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_7_2_REC.Tests", "Laboratorna_7_2_REC.Tests\Laboratorna_7_2_REC.Tests.csproj", "{2042444E-CFDA-4B1A-946A-5F697B754AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01A0CC0-5CB8-4D29-AD23-62A5A6D5EE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01A0CC0-5CB8-4D29-AD23-62A5A6D5EE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01A0CC0-5CB8-4D29-AD23-62A5A6D5EE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01A0CC0-5CB8-4D29-AD23-62A5A6D5EE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2042444E-CFDA-4B1A-946A-5F697B754AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2042444E-CFDA-4B1A-946A-5F697B754AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2042444E-CFDA-4B1A-946A-5F697B754AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2042444E-CFDA-4B1A-946A-5F697B754AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
